@@ -461,29 +461,30 @@ def main():
         * **Mức độ trầm cảm (0–27 pt):** 0-4: Bình thường / Tối thiểu | 5-9: Nhẹ | 10-14: Vừa (Trung bình) | 15-19: Khá nặng | 20-27: Nặng
         * **Lòng tự trọng (0–30 pt):** 0-14: Thấp (Tự ti) | 15-25: Bình thường / Khỏe mạnh | 26-30: Cao (Rất tự tin)
         * **Các yếu tố khác (0–5 pt):** 0-1: Thấp / Hiếm khi | 2-3: Trung bình / Thỉnh thoảng | 4-5: Cao / Thường xuyên.
+        
         🔹 **💪 Thể chất (Physical):**
         * **Tần suất đau đầu (0–5 pt):** 0-1: Hiếm khi ｜ 2-3: Thỉnh thoảng ｜ 4-5: Thường xuyên
         * **Huyết áp (1–3 pt):** 1: Thấp ｜ 2: Bình thường ｜ 3: Cao
         * **Chất lượng giấc ngủ (0–5 pt):** 0-1: Rất kém / Thiếu ngủ ｜ 2-3: Tạm ổn ｜ 4-5: Rất tốt / Ngủ đủ
         * **Vấn đề hô hấp (0–5 pt):** 0-1: Bình thường ｜ 2-3: Thỉnh thoảng khó thở ｜ 4-5: Thường xuyên hụt hơi
 
-     🔹 **🏘️ Môi trường (Environmental):**
-* **Mức độ tiếng ồn (0–5 pt):** 0-1: Yên tĩnh ｜ 2-3: Ồn vừa phải ｜ 4-5: Rất ồn ào
-* **Điều kiện sống (0–5 pt):** 0-1: Tồi tàn / Thiếu thốn ｜ 2-3: Ổn định ｜ 4-5: Rất tốt / Thoải mái
-* **Cảm giác an toàn (0–5 pt):** 0-1: Bất an / Nguy hiểm ｜ 2-3: Khá an tâm ｜ 4-5: Rất an toàn
-* **Nhu cầu cơ bản (0–5 pt):** 0-1: Thiếu thốn ăn uống/sinh hoạt ｜ 2-3: Đầy đủ cơ bản ｜ 4-5: Rất sung túc
+        🔹 **🏘️ Môi trường (Environmental):**
+        * **Mức độ tiếng ồn (0–5 pt):** 0-1: Yên tĩnh ｜ 2-3: Ồn vừa phải ｜ 4-5: Rất ồn ào
+        * **Điều kiện sống (0–5 pt):** 0-1: Tồi tàn / Thiếu thốn ｜ 2-3: Ổn định ｜ 4-5: Rất tốt / Thoải mái
+        * **Cảm giác an toàn (0–5 pt):** 0-1: Bất an / Nguy hiểm ｜ 2-3: Khá an tâm ｜ 4-5: Rất an toàn
+        * **Nhu cầu cơ bản (0–5 pt):** 0-1: Thiếu thốn ăn uống/sinh hoạt ｜ 2-3: Đầy đủ cơ bản ｜ 4-5: Rất sung túc
 
-🔹 **📚 Học tập (Academic):**
-* **Kết quả học tập (0–5 pt):** 0-1: Yếu / Kém ｜ 2-3: Trung bình / Khá ｜ 4-5: Giỏi / Xuất sắc
-* **Áp lực học tập (0–5 pt):** 0-1: Ít áp lực ｜ 2-3: Áp lực vừa phải ｜ 4-5: Quá tải / Căng thẳng
-* **Quan hệ thầy trò (0–5 pt):** 0-1: Xa cách / Không hỗ trợ ｜ 2-3: Bình thường ｜ 4-5: Rất thân thiện / Giúp đỡ
-* **Lo lắng tương lai (0–5 pt):** 0-1: Không lo lắng ｜ 2-3: Mơ hồ / Lo lắng nhẹ ｜ 4-5: Rất khủng hoảng định hướng
+        🔹 **📚 Học tập (Academic):**
+         * **Kết quả học tập (0–5 pt):** 0-1: Yếu / Kém ｜ 2-3: Trung bình / Khá ｜ 4-5: Giỏi / Xuất sắc
+         * **Áp lực học tập (0–5 pt):** 0-1: Ít áp lực ｜ 2-3: Áp lực vừa phải ｜ 4-5: Quá tải / Căng thẳng
+         * **Quan hệ thầy trò (0–5 pt):** 0-1: Xa cách / Không hỗ trợ ｜ 2-3: Bình thường ｜ 4-5: Rất thân thiện / Giúp đỡ
+         * **Lo lắng tương lai (0–5 pt):** 0-1: Không lo lắng ｜ 2-3: Mơ hồ / Lo lắng nhẹ ｜ 4-5: Rất khủng hoảng định hướng
 
-🔹 **👥 Xã hội (Social):**
-* **Hỗ trợ xã hội (0–5 pt):** 0-1: Cô độc / Không ai giúp đỡ ｜ 2-3: Có người chia sẻ ｜ 4-5: Luôn được ủng hộ
-* **Áp lực từ bạn bè (0–5 pt):** 0-1: Không bị ảnh hưởng ｜ 2-3: Áp lực nhẹ ｜ 4-5: Áp lực đồng lứa rất nặng
-* **Hoạt động ngoại khóa (0–5 pt):** 0-1: Không tham gia ｜ 2-3: Tham gia ít / Thỉnh thoảng ｜ 4-5: Rất tích cực
-* **Bắt nạt (0–5 pt):** 0-1: Không bị bắt nạt ｜ 2-3: Từng bị trêu chọc nhẹ ｜ 4-5: Bị bạo lực nghiêm trọng (học đường/mạng)
+        🔹 **👥 Xã hội (Social):**
+         * **Hỗ trợ xã hội (0–5 pt):** 0-1: Cô độc / Không ai giúp đỡ ｜ 2-3: Có người chia sẻ ｜ 4-5: Luôn được ủng hộ
+         * **Áp lực từ bạn bè (0–5 pt):** 0-1: Không bị ảnh hưởng ｜ 2-3: Áp lực nhẹ ｜ 4-5: Áp lực đồng lứa rất nặng
+         * **Hoạt động ngoại khóa (0–5 pt):** 0-1: Không tham gia ｜ 2-3: Tham gia ít / Thỉnh thoảng ｜ 4-5: Rất tích cực
+         * **Bắt nạt (0–5 pt):** 0-1: Không bị bắt nạt ｜ 2-3: Từng bị trêu chọc nhẹ ｜ 4-5: Bị bạo lực nghiêm trọng (học đường/mạng)
         
         *Hệ thống sẽ tự động quy đổi và chuẩn hóa các con số này trước khi đưa vào AI phân tích, bạn chỉ cần chọn mức độ đúng với cảm nhận hiện tại của mình.*
         """)
