@@ -457,6 +457,7 @@ def main():
         with st.expander("💡 Hướng dẫn về thang điểm (Dành cho người dùng)", expanded=False):
              st.markdown("""
         Để đảm bảo tính chính xác khoa học của mô hình học máy, các con số được giữ theo thang đo tâm lý chuẩn:
+        
         🔹 **🧠 Tâm lý (Psychological):**
         * **Mức độ lo lắng (0–21 pt):** 0-4: Bình thường | 5-9: Nhẹ | 10-14: Vừa | 15-21: Nặng
         * **Mức độ trầm cảm (0–27 pt):** 0-4: Bình thường / Tối thiểu | 5-9: Nhẹ | 10-14: Vừa (Trung bình) | 15-19: Khá nặng | 20-27: Nặng
